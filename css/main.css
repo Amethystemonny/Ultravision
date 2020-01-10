@@ -7,6 +7,7 @@
 
 body {
   /* Default font family and font color */
+  font-family: 'Poppins', sans-serif;
 }
 
 p, li, textarea, label, input, select {
@@ -63,3 +64,26 @@ a:hover {
 * Components
 * ----------
 */
+.entete {
+  background-color: #fcce00;
+  color: #fff;
+  text-align:center;
+  font-weight: 900;
+ padding-top: 0;
+ padding-bottom: 80px;
+ margin-bottom: 64px;
+
+  
+
+}
+
+.entete_titre {
+  margin: 0;
+  font-size: 88px;
+  text-transform: uppercase;
+}
+
+.entete_sous_titre {
+margin: 0;
+font-size: 38px; 
+}
