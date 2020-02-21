@@ -87,3 +87,12 @@ a:hover {
 margin: 0;
 font-size: 38px; 
 }
+
+.product {
+  display: flex;
+}
+
+.product-column {
+  flex-basis: 0;
+  flex-grow: 1;
+}
