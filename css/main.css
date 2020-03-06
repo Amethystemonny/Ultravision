@@ -96,3 +96,41 @@ font-size: 38px;
   flex-basis: 0;
   flex-grow: 1;
 }
+
+.product-picture {
+  background-color: #fcce00;
+  order: 2;
+}
+.product-illu {
+  mix-blend-mode: darken;
+}
+.product-picture2{
+  background-color: #ff6b00;
+}
+.product-illu {
+  mix-blend-mode: darken;
+}
+.column { 
+  background: #e02020;
+}
+.product-picture3{
+  background-color: #e02020;
+}
+.product-illu {
+  mix-blend-mode: darken;
+}
+.product-picture4{
+  background-color: #b620e0;
+}
+.product-illu {
+  mix-blend-mode: darken;
+}
+.product-picture5{
+background-color: #6236ff;
+}
+.product-illu {
+  mix-blend-mode: darken;
+
+
+
+
